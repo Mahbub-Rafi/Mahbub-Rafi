@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-rafi" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m currently working as a **Software Engineer @Ahsanullah University of Science and Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahbub-Rafi](https://github.com/Mahbub-Rafi)
 
